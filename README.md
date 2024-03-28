@@ -1,4 +1,4 @@
-# Smart-Object-Analyzer
+# Smart_Object_Analyzer
 Title: Object Detection using OpenCV, Python, and YOLO
 
 Description: Project for object detection using OpenCV, Python, and YOLO (You Only Look Once) technology. The project utilizes the powerful capabilities of YOLO for real-time object detection and recognition within images or video streams.
